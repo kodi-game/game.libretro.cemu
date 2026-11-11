@@ -21,7 +21,7 @@ msgid "Nintendo - Wii U (Cemu)"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid ""
+msgid "Cemu is an emulator for the Nintendo Wii U.[CR][CR]Encrypted disc images (.wud, .wux) need their disc key, in a matching .key file beside the image or in Cemu/keys.txt in the system folder."
 msgstr ""
 
 # Empty string with ID 30000
