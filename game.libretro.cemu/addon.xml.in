@@ -19,5 +19,10 @@
 		<license>MPL-2.0</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.cemu</source>
+		<assets>
+			<icon>resources/icon.png</icon>
+		</assets>
+		<summary lang="en_GB">Nintendo - Wii U (Cemu)</summary>
+		<description lang="en_GB">Cemu is an emulator for the Nintendo Wii U.[CR][CR]Encrypted disc images (.wud, .wux) need their disc key, in a matching .key file beside the image or in Cemu/keys.txt in the system folder.</description>
 	</extension>
 </addon>
